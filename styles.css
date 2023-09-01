@@ -1,0 +1,27 @@
+body {
+    background-color:rgb(58, 58, 58);
+    font-family: "Liberation Serif", cursive;
+  }
+h1 { color: darkgrey;
+
+  }
+a {
+    color: darkgrey;
+}
+h2 {
+    color: darkgrey;
+}
+.outputArea{
+    color: darkgrey;
+}
+.inputLabel{
+    color: darkgrey;
+}
+* {
+    box-sizing: border-box;
+}
+.menu {
+    
+    float: left;
+    width: 50%; 
+}
